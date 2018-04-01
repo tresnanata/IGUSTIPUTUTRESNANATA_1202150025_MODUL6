@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "167646405450",
+    "firebase_url": "https://igustipututresnanata1202150025.firebaseio.com",
+    "project_id": "igustipututresnanata1202150025",
+    "storage_bucket": "igustipututresnanata1202150025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167646405450:android:fa5d9f6d08d56cb4",
+        "android_client_info": {
+          "package_name": "com.example.khimi.igustipututresnanata_1202150025_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167646405450-rcjadj2ul63htheoeipuahgu5siq121s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khimi.igustipututresnanata_1202150025_modul6",
+            "certificate_hash": "7f5d29b888c973fd4f329055d402e97bf718b1e0"
+          }
+        },
+        {
+          "client_id": "167646405450-7eifi2sgh3fsfn5ichjd5hb8s847jp75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9mkAR9zX-SnWvW_QN8n5FFSaRK8fy3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167646405450-7eifi2sgh3fsfn5ichjd5hb8s847jp75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
